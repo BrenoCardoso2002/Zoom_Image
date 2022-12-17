@@ -1,7 +1,7 @@
-# Dar zoom na imagem
+# Dar zoom na imagem (HTML, CSS e JavaScript)
 
 Descrição:  
-Como fazer a imagem dar zoom quando passa o mouse em cima e tirar zoom quando mouse sair de cima dela.
+Como fazer a imagem dar zoom quando passa o mouse em cima e tirar zoom quando mouse sair de cima dela utilizando HTML, CSS e JavaScript.
  
 Arquivos:  
 index.html = é o arquivo html;  
