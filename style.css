@@ -1,0 +1,14 @@
+.zoom {
+  transition: transform 1s; /* Animation */
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  cursor: pointer;
+}
+
+img {
+  border: 2px dotted black;
+}
